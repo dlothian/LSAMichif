@@ -15,7 +15,7 @@ body{
 .outerdiv{
     margin: 50px 0;
     text-align: center;
-    width: 520px;
+    width: 570px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -28,10 +28,16 @@ body{
     font-weight: bold;
     margin: 20px 10px 10px 10px;
     line-height: 40px;
+    width: 320;
 }
 
 .video{
     width:320 !important;
     height:240 !important;
     box-shadow: 10px 10px 8px #888888;
+}
+
+img {
+    width: 570px;
+    height: 360px;
 }
