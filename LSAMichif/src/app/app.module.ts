@@ -18,6 +18,8 @@ import { CountingComponent } from './components/counting/counting.component';
 import { MoveComponent } from './components/move/move.component';
 import { SharingComponent } from './components/sharing/sharing.component';
 import { StoriesComponent } from './components/stories/stories.component';
+import { AboutComponent } from './components/about/about.component';
+import { ColorsComponent } from './components/colors/colors.component';
 
 @NgModule({
   declarations: [
@@ -27,7 +29,9 @@ import { StoriesComponent } from './components/stories/stories.component';
     CountingComponent,
     MoveComponent,
     SharingComponent,
-    StoriesComponent
+    StoriesComponent,
+    AboutComponent,
+    ColorsComponent
   ],
   imports: [
     BrowserModule,

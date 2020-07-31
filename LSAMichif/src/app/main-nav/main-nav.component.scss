@@ -17,10 +17,27 @@
 }
 
 mat-toolbar{
-  background-color: orangered !important;
+  background-color: orange !important;
   color: white;
+  position: sticky !important;
 }
 
 .sidebar{
   background-color: darkorange !important;
+}
+
+.spacer{
+  flex: 1 1 auto;
+}
+
+mat-toolbar a{
+  display:inline-block;
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+  padding: 0!important;
+}
+
+.home{
+  height: 24px;
 }
