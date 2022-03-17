@@ -80,6 +80,9 @@
                 "outputPath": "dist/LSAMichif",
                 "i18nMissingTranslation": "error"
               },
+            "en-US": {
+                "localize": ["en-US"],
+              },
           },
         },
         "serve": {
@@ -96,7 +99,10 @@
             },
             "fr": {
                 "browserTarget": "LSAMichif:build:fr"
-              }
+              },
+              "en-US": {
+              "browserTarget": "angular-i18n-example:build:en-US"
+            },
           }
         },
         "extract-i18n": {
