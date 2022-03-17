@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="learnmichif" datatype="html">
         <source> Learn Michif </source>
-        <target> Apprendre Michif </target>
+        <target> Apprendre le Michif </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main-nav/main-nav.component.html</context>
           <context context-type="linenumber">6</context>
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="titleispy" datatype="html">
         <source>I Spy Colours</source>
-        <target>I Spy Colours</target>
+        <target>Les Couleurs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main-nav/main-nav.component.html</context>
           <context context-type="linenumber">8</context>
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="titleshare" datatype="html">
         <source>Here To Share</source>
-        <target>Ici à partager</target>
+        <target>Ici pour partager</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main-nav/main-nav.component.html</context>
           <context context-type="linenumber">14</context>
