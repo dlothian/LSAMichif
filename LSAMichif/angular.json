@@ -4,6 +4,15 @@
   "newProjectRoot": "projects",
   "projects": {
     "LSAMichif": {
+      "i18n": {
+        "sourceLocale": "en-US",
+        "locales": {
+          "fr": {
+            "translation": "src/locale/messages.fr.xlf",
+            "baseHref": ""
+          },
+        }
+      },
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -64,18 +73,29 @@
               ],
               "serviceWorker": true,
               "ngswConfigPath": "ngsw-config.json"
-            }
-          }
+            },
+            "fr": {
+                "localize": ["fr"],
+                "outputPath": "dist/LSAMichif",
+                "i18nMissingTranslation": "error"
+              },
+          },
         },
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
             "browserTarget": "LSAMichif:build"
           },
+          "fr": {
+              "browserTarget": "LSAMichif:build:fr"
+            },
           "configurations": {
             "production": {
               "browserTarget": "LSAMichif:build:production"
-            }
+            },
+            "fr": {
+                "browserTarget": "LSAMichif:build:fr"
+              }
           }
         },
         "extract-i18n": {

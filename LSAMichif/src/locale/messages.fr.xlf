@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="welcometitle" datatype="html">
+        <source>
+        Welcome To Lac Ste. Anne Michif!
+    </source>
+    <target> Bienvenue à Lac Ste. Anne Michif!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/home.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="pihtokwetitle" datatype="html">
+        <source>
+        Pihtokwe! Come on in!
+    </source>
+    <target> Pihtokwe! Entrez!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/home/home.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="learnmichif" datatype="html">
+        <source> Learn Michif </source>
+        <target> Apprendre Michif </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main-nav/main-nav.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="titleispy" datatype="html">
+        <source>I Spy Colours</source>
+        <target>I Spy Colours</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main-nav/main-nav.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="titlecounting" datatype="html">
+        <source>Counting With Muckatoon</source>
+        <target>Compter avec Muckatoon</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main-nav/main-nav.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="titlemove" datatype="html">
+        <source>Move With Michif</source>
+        <target>Bouger avec le Michif</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main-nav/main-nav.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="titleshare" datatype="html">
+        <source>Here To Share</source>
+        <target>Ici à partager</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main-nav/main-nav.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="titlestories" datatype="html">
+        <source>Stories For Nôsimak</source>
+        <target>Les histoires pour nôsimak</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main-nav/main-nav.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="titleabout" datatype="html">
+        <source>About</source>
+        <target>À Propos</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main-nav/main-nav.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="learn2count" datatype="html">
+        <source>Learn To Count With Muckatoon</source>
+        <target>Apprendre les couleurs avec Muckatoon!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/counting/counting.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="one" datatype="html">
+        <source>
+            One - Peyak
+        </source>
+        <target>
+            Un - Peyak
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/counting/counting.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="two" datatype="html">
+        <source>
+            Two - Nîso
+        </source>
+        <target>
+            Deux - Nîso
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/counting/counting.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="three" datatype="html">
+        <source>
+            Three - Nisto
+        </source>
+        <target>
+            Trois - Nisto
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/counting/counting.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="four" datatype="html">
+        <source>
+            Four - Newo
+        </source>
+        <target>
+            Quatre - Newo
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/counting/counting.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="five" datatype="html">
+        <source>
+            Five - Niyânan
+        </source>
+        <target>
+            Cinq - Niyânan
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/counting/counting.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="counttofive" datatype="html">
+        <source>
+            Count To Five
+        </source>
+        <target>
+          Compter à cinq
+        </target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/counting/counting.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="singtoten" datatype="html">
+        <source>
+            Sing To Ten
+        </source>
+        <target>
+            Chanter de un à dix
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/counting/counting.component.html</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="movetitle" datatype="html">
+        <source>Move With Michif</source>
+        <target>Bouger avec le michif</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/move/move.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="moveparagraph" datatype="html">
+        <source>
+        Come and play Kokum Ehitwet! (Kokum Says!)
+        To play, you have to do what Kokum tells you, but
+        only if she tells you in Michif! If you do what she says
+        when she tells you in English, you&apos;re out! And don&apos;t forget to nakî (stop!)
+        when she says!
+
+        Here are some ideas to get you started!
+    </source>
+    <target>
+      Viens jouer au kokum ehtwet! (Kokum dit!) Pour jouer, vous devez faire ce que Kokum vous dites, mais seulement lorsqu' elle demande en michif.
+      Si vous faites ce qu’elle demande en englais, vous perdez le jeu!
+      Et n’oubliez pas le nakî (arrêt) lorsque kokum le dit! Voici des idées pour commencer!
+    </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/move/move.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="conjugator" datatype="html">
+        <source>
+      Want to make more verbs? Click <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>here<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to use our LSA Michif verb maker!
+      </source>
+      <target>
+        Voulez-vous conjuguer des verbes? Cliquez <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>ici<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> pour utiliser notre conjugueur michif.
+      </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/move/move.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="run" datatype="html">
+        <source>
+            Run - Pimpahtâ
+        </source>
+        <target>
+          Courir - Pimpahtâ
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/move/move.component.html</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="walk" datatype="html">
+        <source>
+            Walk - Pimohtî
+        </source>
+        <target>
+            Marcher - Pimohtî
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/move/move.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="jump" datatype="html">
+        <source>
+            Jump - Kwâskohtô
+        </source>
+        <target>
+            Sauter - Kwâskohtô
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/move/move.component.html</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="heretosharetitle" datatype="html">
+        <source>Here To Share</source>
+        <target>Ici à partager</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/sharing/sharing.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="judyshare" datatype="html">
+        <source>
+            Sharing With Judy
+        </source>
+        <target>
+          Judy évoque ses réflexions sur la langue
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/sharing/sharing.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="kenshare" datatype="html">
+        <source>
+            Sharing With Ken
+        </source>
+        <target>
+          Ken évoque ses réflexions sur la langue
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/sharing/sharing.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="storiestitle" datatype="html">
+        <source>Stories For Nôsimak</source>
+        <target>Les histoires pour nôsimak</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/stories/stories.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="storyp1" datatype="html">
+        <source>
+            Story Part 1
+        </source>
+        <target>
+          Histoire partie #1
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/stories/stories.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="storyp2" datatype="html">
+        <source>
+            Story Part 2
+        </source>
+        <target>
+          Histoire partie #2
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/stories/stories.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="storyp3" datatype="html">
+        <source>
+            Story Part 3
+        </source>
+        <target>
+          Histoire partie #3
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/stories/stories.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="abouttitle" datatype="html">
+        <source>About</source>
+        <target>À Propos</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="creditsp" datatype="html">
+        <source>
+        Video Credits:
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Made By:
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Maureen Belanger
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Riplea Lothian
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Heather Hatch
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Jamie Bourque
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Produced By:
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Heather Hatch
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Jamie Bourque
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Riplea Lothian
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Maureen Belanger
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Starring:
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Judith Hilbert
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Cyrille Ken Letendre
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Rayleigh Vazquez
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Sofia Vazquez
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Ivy Brandsma
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Soleil Dionne
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Riplea Lothian as Muckatoon
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Maureen Boulanger as Kokum Ernestine
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>DOP - Jamie Bourque
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Director - Heather Hatch
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Illustrator - Aisha Snowden
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Editor - Jamie Bourque
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Grip - Frieda Bourque
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Technical Support
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Website By:
+        <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Delaney Lothian
+    </source>
+    <target>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Réaliser par:
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Heather Hatch
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Jamie Bourque
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Riplea Lothian
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Maureen Belanger
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Avec la participation de:
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Judith Hilbert
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Cyrille Ken Letendre
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Rayleigh Vazquez
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Sofia Vazquez
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Ivy Brandsma
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Soleil Dionne
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Riplea Lothian - Muckatoon
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Maureen Boulanger - Kokum Ernestine
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>DOP - Jamie Bourque
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Réalisatrice - Heather Hatch
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Illustratrice - Aisha Snowden
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Monteur - Jamie Bourque
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Machiniste caméra - Frieda Bourque
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Site web:
+    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>Delaney Lothian
+</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="psponsored" datatype="html">
+        <source>Sponsored by the Government of Canada</source>
+        <target>Financé par le gouvernement du Canada</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/about/about.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ispytitle" datatype="html">
+        <source>I Spy Colors</source>
+        <target>I Spy Colors</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/colors/colors.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="playispy" datatype="html">
+        <source>
+            Play I Spy With Kokum!
+        </source>
+        <target>
+            Jouez I Spy With Kokum!
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/colors/colors.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="learwcolors" datatype="html">
+        <source>
+            Learn Colours With Muckatoon!
+        </source>
+        <target>
+          Apprendre les couleurs avec Muckatoon!
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/colors/colors.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
