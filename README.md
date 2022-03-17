@@ -1,2 +1,3 @@
 # LSAMichif
-Web App To Show Lac Ste Anne Michif 
+Web App To Show Lac Ste Anne Michif
+french
