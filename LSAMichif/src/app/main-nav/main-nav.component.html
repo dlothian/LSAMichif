@@ -3,17 +3,17 @@
       [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
       [mode]="(isHandset$ | async) ? 'over' : 'side'"
       [opened]="(isHandset$ | async) === false">
-    <mat-toolbar i18n="@@learnmichif" class="sidebar"> Learn Michif </mat-toolbar>
+    <mat-toolbar i18n="@@learnmichif" class="sidebar"> Apprendre le Michif </mat-toolbar>
     <mat-nav-list>
-      <a i18n="@@titleispy" mat-list-item routerLink="/colours">I Spy Colours</a>
+      <a i18n="@@titleispy" mat-list-item routerLink="/colours">Les Couleurs</a>
       <mat-divider></mat-divider>
-      <a i18n="@@titlecounting" mat-list-item routerLink="/counting">Counting With Muckatoon</a>
+      <a i18n="@@titlecounting" mat-list-item routerLink="/counting">Compter avec Muckatoon</a>
       <mat-divider></mat-divider>
-      <a i18n="@@titlemove" mat-list-item routerLink="/move">Move With Michif</a>
+      <a i18n="@@titlemove" mat-list-item routerLink="/move">Bouger avec le Michif</a>
       <mat-divider></mat-divider>
-      <a i18n="@@titleshare" mat-list-item routerLink="/sharing">Here To Share</a>
+      <a i18n="@@titleshare" mat-list-item routerLink="/sharing">Ici pour partager</a>
       <mat-divider></mat-divider>
-      <a i18n="@@titlestories" mat-list-item routerLink="/stories">Stories For Nôsimak</a>
+      <a i18n="@@titlestories" mat-list-item routerLink="/stories">Les histoires pour nôsimak</a>
     </mat-nav-list>
   </mat-sidenav>
   <mat-sidenav-content>
@@ -29,7 +29,7 @@
       <span>Lac Ste. Anne Michif</span>
       <span class="spacer"></span>
       <a  class="home" routerLink=""><mat-icon >home</mat-icon></a>
-      <a  i18n="@@titleabout" routerLink="/about">About</a>
+      <a  i18n="@@titleabout" routerLink="/about">À Propos</a>
       <a  href="https://lacsteannemetis.com/">LSAM</a>
     </mat-toolbar>
     <!-- Add Content Here -->

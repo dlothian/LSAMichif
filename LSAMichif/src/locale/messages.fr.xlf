@@ -6,7 +6,7 @@
         <source>
         Welcome To Lac Ste. Anne Michif!
     </source>
-    <target> Bienvenue à Lac Ste. Anne Michif!</target>
+    <target>Bienvenue à Lac Ste. Anne Michif!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/home/home.component.html</context>
           <context context-type="linenumber">4</context>
